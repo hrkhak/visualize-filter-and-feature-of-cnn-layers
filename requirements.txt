@@ -1,0 +1,4 @@
+python 3.7 to up
+pytorch
+matplotlib v1.2
+numpy v1.9
